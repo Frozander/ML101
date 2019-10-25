@@ -1,5 +1,7 @@
 import numpy as np
+import ml101.activations as ml_funcs
 from ml101.perceptron import Perceptron
+
 
 if __name__ == "__main__":
         
