@@ -7,10 +7,16 @@ def sigmoid_der(x):
     return x / (1 - x)
 
 def relu(x):
-    return x*(x>0) #Python can implicitly convert boolean to number
+    if x > 0:
+        return x
+    else:
+        return 0
 
 def relu_der(x):
-    return 1*(x>0)
+    if x > 0:
+        return 1
+    else:
+        return 0
 
 def leaky_relu(x):
     if x < 0:
