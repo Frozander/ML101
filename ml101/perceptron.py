@@ -1,5 +1,5 @@
 import numpy as np
-from .activations import *
+from .functional import *
 
 class Perceptron():
 
