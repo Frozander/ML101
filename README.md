@@ -1,5 +1,5 @@
 # ML101
-Repository for my [ML101 series on Medium.com](https://medium.com/@ceylan.mustafabatuhan/machine-learning-101-basics-and-first-perceptron-913989980148)
+Repository for my [ML101 series on my own blog](https://blog.frozander.xyz/machine-learning-101-basics-and-first-perceptron/)
 
 ## What is this about?
 This project is for me to relearn the basic concepts of machine learning and try to share my knowledge t ocomplete beginners who want to learn what is under the hood (more or less) of modern frameworks like Tensorflow, Pytorch, Caffe etc.
